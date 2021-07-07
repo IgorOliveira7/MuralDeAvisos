@@ -37,7 +37,7 @@ function newPost(){
         <div class="topo">
                 <div class="alert alert-danger alert dismissible fade show id="error">
                     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-                    <strong>O campo do ID não pode estar vazio! 
+                    <strong>Os campos de título e descrição não podem estar vazios! 
                 </div>
             </div>`;
     } else {
