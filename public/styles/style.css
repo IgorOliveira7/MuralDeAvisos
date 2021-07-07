@@ -1,0 +1,10 @@
+.topo {
+    position: absolute;
+    top: 12px;
+    left: 0px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
